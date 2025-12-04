@@ -67,3 +67,6 @@
 
 ###### Una pagina web en la cual puedes modificar esteticamente tu coche a tu gusto para enseñarlo a nuestr taller:
 [Modifica tu coche aquí](https://www.3dtuning.com/es-ES/)
+
+## Imagen
+[![](https://seguros.elcorteingles.es/content/dam/eci-seguros/es/blog/blog-noviembre/cuanto-tarda-seguro-reparar-coche.jpg)](https://seguros.elcorteingles.es/content/dam/eci-seguros/es/blog/blog-noviembre/cuanto-tarda-seguro-reparar-coche.jpg)
