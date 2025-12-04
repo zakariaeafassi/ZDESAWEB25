@@ -56,3 +56,10 @@
 
 </html>
 ```
+## Tabla
+###### Una simulacion de una base de datos
+| ID cliente| Nombre completo| Correo | Dni | Matricula de coche|
+|-----------|-----------|-----------|-----------|-----------|
+|#134dfg   | zakaria afassi    | z****@gmail.com| 12345678U    | 1234 ABC    |
+|#345fiv   | Juan manuel    | jm****@gmail.com |  87654321B| 5678 QWE    |
+
