@@ -13,7 +13,7 @@
 ###### En este proyecto usare las siguientes herramientas:
 
 ### Frontend 
-###### HTML, CSS, JAVASCRIPT 
+###### ***HTML***, ***CSS***, ***JAVASCRIPT***
 
 ### Backend 
-###### PHP, MARIADB
+###### ***PHP***, ***MARIADB***
