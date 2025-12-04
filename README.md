@@ -31,4 +31,7 @@
 3. Desarrollo.
 4. Prueba.
 5. Lanzamiento.
-   
+
+## Una cita del proyecto
+
+> Mejoramos tu coche
