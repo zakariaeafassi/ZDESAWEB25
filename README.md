@@ -17,3 +17,18 @@
 
 ### Backend 
 ###### ***PHP***, ***MARIADB***
+
+## Caracteristicas del proyecto
+- Responsive.
+- Segura.
+- Sencilla de usar.
+- Buen diseño visual.
+- dinamica.
+
+## Fases de desarrollo
+1. Planificacion y analisis.
+2. Diseño.
+3. Desarrollo.
+4. Prueba.
+5. Lanzamiento.
+   
