@@ -35,3 +35,24 @@
 ## Una cita del proyecto
 
 > Mejoramos tu coche
+
+## Bloque de codigo
+
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taller de mecanica</title>
+</head>
+
+<body>
+    <h1>TALLER DE MECANICA</h1>
+    <p>hola este es un taller de mecanica especializado en reparacion de cualquier tipo de averias y modifacion de
+        vehiculos tanto internas como externas</p>
+</body>
+
+</html>
+```
