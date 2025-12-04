@@ -69,4 +69,5 @@
 [Modifica tu coche aquí](https://www.3dtuning.com/es-ES/)
 
 ## Imagen
-![](https://seguros.elcorteingles.es/content/dam/eci-seguros/es/blog/blog-noviembre/cuanto-tarda-seguro-reparar-coche.jpg)[](https://www.3dtuning.com/es-ES/)
+![imagen](https://seguros.elcorteingles.es/content/dam/eci-seguros/es/blog/blog-noviembre/cuanto-tarda-seguro-reparar-coche.jpg)[](https://www.3dtuning.com/es-ES/)
+
