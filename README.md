@@ -71,3 +71,7 @@
 ## Imagen
 ![imagen](https://seguros.elcorteingles.es/content/dam/eci-seguros/es/blog/blog-noviembre/cuanto-tarda-seguro-reparar-coche.jpg)[](https://www.3dtuning.com/es-ES/)
 
+## Enlace de otro documento
+
+[Ver el detalle funcional](./detalle 
+funcional.md)
