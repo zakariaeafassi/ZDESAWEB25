@@ -23,13 +23,13 @@ Dentro de reparacion encontraras algunas averias que una persona puede identific
 Dentro de modificaciones habra lo siguiente:
 
 + modificacion externa:
-- pintura.
-- vinilo.
-- choques.
-- rayones.
-- wide body.
-- cambio y montaje de componentes.
-- limpieza
+  - pintura.
+  - vinilo.
+  - choques.
+  - rayones.
+  - wide body.
+  - cambio y montaje de componentes.
+  - limpieza
   
 + modificacion interna:
   - montaje de luces.
