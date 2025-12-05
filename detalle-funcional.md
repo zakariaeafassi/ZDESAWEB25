@@ -6,4 +6,8 @@
 
  Los usarios de esta pagina podría ser cualquier persona con un vehiculo con necesidad de arreglar una averia o de modificar su apriencia tanto interios (tapiceria, limpieza, instalacion de luces/ pantalla inteligente, ...) o exterior (pintura/aplicacion de vinilo, limpieza, instalacion o cambio de componentes exteriores de coche, ...).
 
-Para usar la aplicacion se debe iniciar secion o crear cuenta. **Si vas a iniciar sesion** hace falta poner tu correo y la contraseña, y **si vas a crearla desde 0** debes poner tu nombre completo, dni, correo electronico no usado anteriormente en esta aplicacion, y crear una contraseña y confirmarla en el correo
+Para usar la aplicacion se debe iniciar secion o crear cuenta. **Si vas a iniciar sesion** hace falta poner tu correo y la contraseña, y **si vas a crearla desde 0** debes poner tu nombre completo, dni, correo electronico no usado anteriormente en esta aplicacion, y crear una contraseña y confirmarla en el correo. Una vez iniciada sesion, el cliente debe eligir entre reparacion o modificacion, para que el taller puede identificar la necesidad deñ cliente, una vez eligida se rellena un formulario que pide obligatoriamente: la matricula del coche, y la fecha, en caso de no haberla eligido hay que señalar un checkbox aclarando que no le importa la fecha de este servicio para evitar el hecho de olvidar ponerla.
+
+
+
+
