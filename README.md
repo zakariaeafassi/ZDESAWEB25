@@ -73,5 +73,4 @@
 
 ## Enlace de otro documento
 
-[Ver el detalle funcional](./detalle 
-funcional.md)
+[detalle funcional] (/detalle funcional.md).
