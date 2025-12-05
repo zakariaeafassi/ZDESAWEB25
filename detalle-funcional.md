@@ -8,6 +8,32 @@
 
 Para usar la aplicacion se debe iniciar secion o crear cuenta. **Si vas a iniciar sesion** hace falta poner tu correo y la contraseña, y **si vas a crearla desde 0** debes poner tu nombre completo, dni, correo electronico no usado anteriormente en esta aplicacion, y crear una contraseña y confirmarla en el correo. Una vez iniciada sesion, el cliente debe eligir entre reparacion o modificacion, para que el taller puede identificar la necesidad deñ cliente, una vez eligida se rellena un formulario que pide obligatoriamente: la matricula del coche, y la fecha, en caso de no haberla eligido hay que señalar un checkbox aclarando que no le importa la fecha de este servicio para evitar el hecho de olvidar ponerla.
 
+## ¿Que encontraré en la pagina de reparacio y modificacion?
 
+Dentro de reparacion encontraras algunas averias que una persona puede identificar sin necesidad de conocimiento mecanico como:
+ - el coche no arranca.
+ - problemas en las ruedas.
+ - problemas de carroceria (las puertas/maletero/capo no abren, cristales rotos, ventanas no bajan/suben, ...).
+ - el coche echa humo.
+ - problemas de freno.
+ - ruidos raros al acelerar.
+ - ruido anormal al arrancar.
+ - otros ruidos.
 
+Dentro de modificaciones habra lo siguiente:
 
++ modificacion externa:
+- pintura.
+- vinilo.
+- choques.
+- rayones.
+- wide body.
+- cambio y montaje de componentes.
+- limpieza
+  
++ modificacion interna:
+  - montaje de luces.
+  - arreglo de tapiceria.
+  - cambio de componentes.
+  - montaje de pantalla tactil.
+  
